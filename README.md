@@ -1,6 +1,6 @@
 # React Native Uber Clone
 
-<img src="./assets/react-native-uber-clone.gif" alt="React Native Uber Clone Demo" width="250" />
+<div align="center"><img src="./assets/react-native-uber-clone.gif" alt="React Native Uber Clone Demo" width="250" /></div>
 
 ## Overview
 
