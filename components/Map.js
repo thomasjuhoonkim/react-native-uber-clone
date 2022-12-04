@@ -71,7 +71,6 @@ const Map = () => {
       const response = await fetch(URL);
       const data = await response.json();
       dispatch(setTravelTimeInformation(data.rows[0].elements[0]));
-      console.log(data.rows[0].elements[0]);
     };
 
     getTravelTime();
